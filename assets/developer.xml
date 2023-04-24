@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<apis>
+	<string name="mapbox_access_token">
+		pk.eyJ1IjoibHVpc2xlb25pZGFzIiwiYSI6ImNrbnhhcWFiazBpNGoycG40YzVmbng1dW8ifQ.H3n7NYagN5ZjNWTPZxJVAw
+	</string>
+	<string name="apikey_private">
+		sk.eyJ1IjoibHVpc2xlb25pZGFzIiwiYSI6ImNsZHozNmNpdTBpMmgzbnBvbXpwazZqejQifQ.BmLWsc31KgWMRxGg6HQH3w
+	</string>
+</apis>
